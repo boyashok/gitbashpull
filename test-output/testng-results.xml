@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T12:16:26 IST" name="Suite" finished-at="2023-03-04T12:17:16 IST" duration-ms="49942">
+    <groups>
+      <group name="smoke">
+        <method signature="CreateContactwithOrganisation.CreateContactwithOrganisationTest()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" name="CreateContactwithOrganisationTest" class="Practice.CreateContactwithOrganisation"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-03-04T12:16:26 IST" name="Test" finished-at="2023-03-04T12:17:16 IST" duration-ms="49942">
+      <class name="Practice.CreateLead">
+        <test-method is-config="true" signature="BC()[pri:0, instance:Practice.CreateLead@242b836]" started-at="2023-03-04T12:16:56 IST" name="BC" finished-at="2023-03-04T12:16:57 IST" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Practice.CreateLead@242b836]" started-at="2023-03-04T12:16:57 IST" name="BM" finished-at="2023-03-04T12:17:01 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="createlead()[pri:0, instance:Practice.CreateLead@242b836]" started-at="2023-03-04T12:17:01 IST" name="createlead" finished-at="2023-03-04T12:17:11 IST" duration-ms="9761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createlead -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Practice.CreateLead@242b836]" started-at="2023-03-04T12:17:11 IST" name="AM" finished-at="2023-03-04T12:17:16 IST" duration-ms="4428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Practice.CreateLead@242b836]" started-at="2023-03-04T12:17:16 IST" name="AC" finished-at="2023-03-04T12:17:16 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- Practice.CreateLead -->
+      <class name="Practice.CreateContactwithOrganisation">
+        <test-method is-config="true" signature="BS()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:26 IST" name="BS" finished-at="2023-03-04T12:16:26 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:26 IST" name="BT" finished-at="2023-03-04T12:16:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:26 IST" name="BC" finished-at="2023-03-04T12:16:29 IST" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:29 IST" name="BM" finished-at="2023-03-04T12:16:40 IST" duration-ms="10941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="CreateContactwithOrganisationTest()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:40 IST" name="CreateContactwithOrganisationTest" finished-at="2023-03-04T12:16:53 IST" duration-ms="12596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateContactwithOrganisationTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:53 IST" name="AM" finished-at="2023-03-04T12:16:56 IST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:16:56 IST" name="AC" finished-at="2023-03-04T12:16:56 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:17:16 IST" name="AT" finished-at="2023-03-04T12:17:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:Practice.CreateContactwithOrganisation@54e1c68b]" started-at="2023-03-04T12:17:16 IST" name="AS" finished-at="2023-03-04T12:17:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- Practice.CreateContactwithOrganisation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
